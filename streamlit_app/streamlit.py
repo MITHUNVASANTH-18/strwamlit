@@ -5,7 +5,7 @@ from PIL import Image
 import io
 import re
 
-FLASK_API_URL = "http://flask_backend:1818"
+FLASK_API_URL = "http://13.126.26.34:1818"
 
 
 
