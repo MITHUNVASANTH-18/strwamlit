@@ -1,0 +1,31 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Streamlit cache and logs
+.streamlit/
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Git files
+.git/
+.gitignore
+
+# Docker-related files
+Dockerfile
+docker-compose.yml
+
+# IDE/editor directories
+.vscode/
+.idea
